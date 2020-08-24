@@ -16,11 +16,11 @@ export christerjohansson () => ({
   ],
   technologies: {
     frontEnd: {
-      js: ["react", "angular", "vue", "gatsby", "strapi", "ghost", "netlify-cms"],
+      js: ["react", "angular", "vue", "gatsby", "strapi", "ghost", "netlify-cms", "typescript"],
       css: ["materialize", "foundation", "bootstrap", "Semantic-UI", "UI-kit", "milligram", "skeleton", "tailwind"]
     },
     backEnd: {
-      js: ["node", "express"],
+      js: ["nodejs", "express"],
       cloud: ["docker", "gcp", "aws", "vagrant", "virtualbox"],
       misc: ["bash", "systemd", "ubuntu", "centOS", "raspberry-pi"]
     },
