@@ -28,7 +28,8 @@ export christerjohansson () => ({
     databases: ["mongo", "postgres", "mysql"]
   },
   publications: [
-    "Packt Publishing - The JavaScript workshop"
+    "Packt Publishing - The JavaScript workshop",
+    "GitBooks - Learn React Now"
   ]
 });
 ```
