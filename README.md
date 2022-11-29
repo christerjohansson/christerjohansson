@@ -11,12 +11,12 @@ export christerjohansson () => ({
   pubKey: "2E0 E0CE 613",
   blogUrl: "http://www.christerjohansson.net",
   askMeAbout: [
-    "webdevelopment", "technology", "gadgets",
+    "headless-web", "blockchains", "gadgets",
     "history", "gaming", "lecturing", "entrepreneurship"
   ],
   technologies: {
     frontEnd: {
-      js: ["react", "angular", "vue", "gatsby", "strapi", "ghost", "netlify-cms", "typescript"],
+      js: ["react", "nextjs", "vue", "gatsby", "strapi", "ghost", "netlify-cms", "typescript"],
       css: ["materialize", "foundation", "bootstrap", "Semantic-UI", "UI-kit", "milligram", "skeleton", "tailwind"]
     },
     backEnd: {
